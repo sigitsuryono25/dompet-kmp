@@ -7,6 +7,12 @@ Aplikasi contoh *"Dompet Kembang Kempis"*: **satu basis kode Kotlin**, UI dituli
 dengan **Compose Multiplatform**, berjalan di **Android** dan **iOS** — plus
 **Desktop (JVM)** untuk pratinjau cepat dan render tangkapan layar buku.
 
+```bash
+# Ambil salinan proyek
+git clone https://github.com/sigitsuryono25/dompet-kmp.git
+cd dompet-kmp
+```
+
 ---
 
 ## Tangkapan layar
