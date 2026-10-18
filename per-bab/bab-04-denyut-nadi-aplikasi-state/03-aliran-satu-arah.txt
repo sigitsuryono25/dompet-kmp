@@ -1,0 +1,9 @@
+------------------------------------------------------------
+  Bab 4 — DENYUT NADI APLIKASI (STATE)
+  VOLUME 1 — BABAT ALAS "DOMPET KEMBANG KEMPIS"
+  Bagian: Aliran Satu Arah
+  Kode ini disalin apa adanya dari buku "Maha Kitab Sakti".
+------------------------------------------------------------
+
+Ketik ──▶ onValueChange ──▶ mutableStateOf berubah
+   ──▶ Recomposition ──▶ Text menampilkan nilai baru

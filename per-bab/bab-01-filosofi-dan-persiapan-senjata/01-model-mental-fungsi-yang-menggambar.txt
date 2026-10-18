@@ -1,0 +1,10 @@
+------------------------------------------------------------
+  Bab 1 — FILOSOFI DAN PERSIAPAN SENJATA
+  VOLUME 1 — BABAT ALAS "DOMPET KEMBANG KEMPIS"
+  Bagian: Model Mental: Fungsi yang Menggambar, Bukan Objek yang Hidup
+  Kode ini disalin apa adanya dari buku "Maha Kitab Sakti".
+------------------------------------------------------------
+
+State (data) ──▶ Composable(State) ──▶ UI di layar
+                      ▲
+                      └── dipanggil ulang saat State berubah

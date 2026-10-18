@@ -1,0 +1,14 @@
+------------------------------------------------------------
+  Bab 3 — SIHIR KOSMETIK BERNAMA MODIFIER
+  VOLUME 1 — BABAT ALAS "DOMPET KEMBANG KEMPIS"
+  Bagian: 3.2. Rantai Modifier: Membaca dari Kiri ke Kanan
+  Kode ini disalin apa adanya dari buku "Maha Kitab Sakti".
+------------------------------------------------------------
+
+Modifier
+    .fillMaxWidth()          // 1. ambil lebar penuh
+    .padding(16.dp)          // 2. sisakan napas di luar
+    .shadow(4.dp, ...)       // 3. jatuhkan bayangan
+    .background(Color.White) // 4. cat kanvas
+    .clip(...)               // 5. potong sudut
+    .clickable { ... }       // 6. tangkap sentuhan

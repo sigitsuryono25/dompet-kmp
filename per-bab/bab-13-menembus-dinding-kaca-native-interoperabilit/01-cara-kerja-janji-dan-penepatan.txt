@@ -1,0 +1,10 @@
+------------------------------------------------------------
+  Bab 13 — MENEMBUS DINDING KACA (NATIVE INTEROPERABILITY)
+  VOLUME 4 — PENDEKAR TURUN GUNUNG "MENYENTUH LOGAM BERDARAH"
+  Bagian: Cara Kerja Janji dan Penepatan
+  Kode ini disalin apa adanya dari buku "Maha Kitab Sakti".
+------------------------------------------------------------
+
+commonMain :  expect fun getNamaPlatform(): String   (kontrak)
+androidMain:  actual fun getNamaPlatform(): String { ... }   (penepatan Android)
+iosMain    :  actual fun getNamaPlatform(): String { ... }   (penepatan iOS)
